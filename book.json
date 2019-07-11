@@ -1,14 +1,23 @@
 {
-
+    "gitbook": "3.2.3",
     "title": "从零开始学算法",
     "author": "tiankonguse",
     "description": "这是一本介绍算法的书籍。虽然名字是从零开始学算法，但是需要你有一定的计算机基础才行。",
-    "language ": "zh-hans",
-    "theme-default": {
-        "showLevel": true
-    },
+    "language ": "zh",
     "plugins": [
         "search",
         "highlight"
-    ]
+    ],
+    "pdf": {
+        "pageNumbers": true, 
+        "fontFamily": "Arial",
+        "fontSize": 15,
+        "paperSize": "a4",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 56,
+            "bottom": 56
+        }
+    }
 }
