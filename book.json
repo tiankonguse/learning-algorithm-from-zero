@@ -1,0 +1,14 @@
+{
+
+    "title": "从零开始学算法",
+    "author": "tiankonguse",
+    "description": "这是一本介绍算法的书籍。虽然名字是从零开始学算法，但是需要你有一定的计算机基础才行。",
+    "language ": "zh-hans",
+    "theme-default": {
+        "showLevel": true
+    },
+    "plugins": [
+        "search",
+        "highlight"
+    ]
+}
