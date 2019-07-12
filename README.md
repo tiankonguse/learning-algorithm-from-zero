@@ -9,9 +9,12 @@
 
 现在整理成电子档以方便大家来阅读。  
 
+
 如果你发现这本书有错误的地方，欢迎到 [github](https://github.com/tiankonguse/learning-algorithm-from-zero) 提交 Issues。  
+如果你要获取最新版本的电子书，也可以到 [github](https://github.com/tiankonguse/learning-algorithm-from-zero) 来找到最新版本的电子书。  
 
 
-发布于 2019-07-11  
-最后修改时间：2019-07-12 02:23  
+
+第一版本：2019-07-11 (v0.0.1)
+当前版本：2019-07-12 (v0.0.2)
 
